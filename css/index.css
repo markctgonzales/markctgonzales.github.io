@@ -1,0 +1,12 @@
+.navbar {
+	background-color: #8AA574;
+	max-height: 50px;
+}
+
+.jumbotron {
+	background-image: url('../images/home-header.jpg');
+	background-position: center center;
+	background-size: cover;
+	height: 920px;
+	width: 1920px;
+}
